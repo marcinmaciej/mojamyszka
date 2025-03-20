@@ -1,6 +1,6 @@
 # mojamyszka - automatyzuje kliknięcia.
 
-Mojamyszka jest rozszerzeniem do przeglądarek.
+Mojamyszka jest rozszerzeniem do przeglądarek, które niestety już nie działa tak jak na początku ponieważ google załatał buga.
 
 Automatyzuje:
 
